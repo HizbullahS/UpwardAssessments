@@ -176,6 +176,7 @@ namespace UpwardAssignments
 
             ////Censored Vowel String
             CensoredVowelsString("Wh*r* d*d my v*w*ls g*?", "eeioeo");
+            Console.WriteLine("Hello World");
 
             ////Convert Decimal to Binary 
             //ConvertToBinary();
